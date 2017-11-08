@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <array name="search_entries">
+
+    <item>@string/Popular</item>
+     <item>@string/Top</item>
+
+ </array>
+
+
+ <array name="search_values" >
+
+    <item>@string/popularUrl</item>
+     <item>@string/ratedUrl</item>
+
+
+ </array>
+
+
+
+
+
+
+
+</resources>

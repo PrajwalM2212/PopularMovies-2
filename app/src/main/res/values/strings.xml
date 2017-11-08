@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="contentDescription">MoviePoster</string>
+    <string name="contentDescription1">GridPoster</string>
+    <string name="NetworkError">No Active Network Connection</string>
+    <string name="NetworkInavailable">Poor Or No network</string>
+    <string name="Api_Key_Value" translatable="false">"03ab797bfab05fba42dded41ea06fb91"</string>
+    <string name="label">Search</string>
+    <string name="key" translatable="false">type</string>
+    <string name="popularUrl" translatable="false">http://api.themoviedb.org/3/movie/popular?</string>
+    <string name="ratedUrl" translatable="false">http://api.themoviedb.org/3/movie/top_rated?</string>
+    <string name="Popular">Popular</string>
+    <string name="Top">Top Rated</string>
+    <string name="favThis">Add to Favourites</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="favourites">Favourites</string>
+    <string name="share">Share</string>
+</resources>
